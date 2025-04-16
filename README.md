@@ -27,12 +27,12 @@ A simple Python tool that allows you to interactively select an image, enhance i
 
 1. **Clone the Repository to your local workspace**  
    ```bash
-   git clone https://github.com/Oyefusi-Samuel/image-brightness-contrast-enhancer.git
+   git clone https://github.com/Oyefusi-Samuel/image-brightness-contrast-enhancer-opencv.git
 
   
  2. **Navigate into the Project Directory**
    ```
-  cd image-brightness-contrast-enhancer
+  cd image-brightness-contrast-enhancer-opencv
 ```
 
 3. **Create a Virtual Environment**
