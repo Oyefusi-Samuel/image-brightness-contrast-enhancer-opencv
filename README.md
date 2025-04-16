@@ -32,7 +32,7 @@ A simple Python tool that allows you to interactively select an image, enhance i
   
  2. **Navigate into the Project Directory**
    ```
-  cd image-brightness-contrast-enhancer
+  cd image-brightness-contrast-enhancer-opencv
 ```
 
 3. **Create a Virtual Environment**
